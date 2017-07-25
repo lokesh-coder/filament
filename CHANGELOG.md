@@ -1,3 +1,23 @@
+<a name="1.3.1"></a>
+## [1.3.1](https://github.com/lokesh-coder/filament/compare/v1.3.0...v1.3.1) (2017-07-25)
+
+
+### Bug Fixes
+
+* Travis fix ([4395daf](https://github.com/lokesh-coder/filament/commit/4395daf))
+
+
+
+<a name="1.3.0"></a>
+# [1.3.0](https://github.com/lokesh-coder/filament/compare/v1.2.0...v1.3.0) (2017-07-25)
+
+
+### Features
+
+* ** Core :** Travis auto deploy npm ([9bbb5c1](https://github.com/lokesh-coder/filament/commit/9bbb5c1))
+
+
+
 <a name="1.2.0"></a>
 # [1.2.0](https://github.com/lokesh-coder/filament/compare/v1.1.0...v1.2.0) (2017-07-25)
 

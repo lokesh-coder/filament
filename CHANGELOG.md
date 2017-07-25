@@ -1,3 +1,20 @@
+<a name="1.4.0"></a>
+# [1.4.0](https://github.com/lokesh-coder/filament/compare/v1.3.1...v1.4.0) (2017-07-25)
+
+
+### Bug Fixes
+
+* travis ([3260838](https://github.com/lokesh-coder/filament/commit/3260838))
+* travis 2 ([5ed99d6](https://github.com/lokesh-coder/filament/commit/5ed99d6))
+* Travis deploy fix ([4101bf2](https://github.com/lokesh-coder/filament/commit/4101bf2))
+
+
+### Features
+
+* travis syntax fix ([c463e31](https://github.com/lokesh-coder/filament/commit/c463e31))
+
+
+
 <a name="1.3.1"></a>
 ## [1.3.1](https://github.com/lokesh-coder/filament/compare/v1.3.0...v1.3.1) (2017-07-25)
 

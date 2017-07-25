@@ -26,6 +26,7 @@ before_script:
 after_success:
   - 'if [ ${TRAVIS_PULL_REQUEST} = "false" ]; then
       npm run release;
+      npm publish --access=public;
       npm run release-log;
     fi'
   
@@ -33,13 +34,3 @@ branches:
   only:
     - master
     - /v\d+\.\d+[a-z]/
-deploy:
-  provider: npm
-  email: mexican.dirtyfellow@gmail.com
-  api_key: 
-    secure: $NPM_TOKEN
-  skip_cleanup: true
-  on:
-    tags: true
-    all_branches: true
-    repo: lokesh-coder/filament 

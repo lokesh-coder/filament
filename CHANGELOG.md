@@ -1,3 +1,13 @@
+<a name="1.4.1"></a>
+## [1.4.1](https://github.com/lokesh-coder/filament/compare/v1.4.0...v1.4.1) (2017-07-25)
+
+
+### Bug Fixes
+
+* anoher ([4298a87](https://github.com/lokesh-coder/filament/commit/4298a87))
+
+
+
 <a name="1.4.0"></a>
 # [1.4.0](https://github.com/lokesh-coder/filament/compare/v1.3.1...v1.4.0) (2017-07-25)
 

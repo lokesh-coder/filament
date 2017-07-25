@@ -6,7 +6,7 @@ addons:
       - google-chrome
     packages:
       - google-chrome-stable
-language: node_js
+language: node_js 
 node_js:
   - node
 cache:
@@ -24,10 +24,11 @@ before_script:
   - git checkout master
   - git config push.default current
 after_success:
-  if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
-    npm run release  || exit 1
-    npm run release-log  || exit 1
-  fi
+  - 'if [ ${TRAVIS_PULL_REQUEST} = "false" ]; then
+      npm run release
+      npm run release-log
+    fi'
+  
 branches:
   only:
     - master

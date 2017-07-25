@@ -40,4 +40,4 @@ deploy:
   on:
     tags: true
     all_branches: true
-    repo: lokesh-coder/filament
+    repo: lokesh-coder/filament 

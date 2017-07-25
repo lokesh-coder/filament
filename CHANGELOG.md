@@ -1,3 +1,13 @@
+<a name="1.5.0"></a>
+# [1.5.0](https://github.com/lokesh-coder/filament/compare/v1.4.1...v1.5.0) (2017-07-25)
+
+
+### Features
+
+* npm publish ([ff762dc](https://github.com/lokesh-coder/filament/commit/ff762dc))
+
+
+
 <a name="1.4.1"></a>
 ## [1.4.1](https://github.com/lokesh-coder/filament/compare/v1.4.0...v1.4.1) (2017-07-25)
 

@@ -30,3 +30,11 @@ after_success:
 branches:
   only:
     - master
+deploy:
+  provider: npm
+  email: mexican.dirtyfellow@gmail.com
+  api_key: $NPM_TOKEN
+  skip_cleanup: true
+  on:
+    tags: true
+    all_branches: true

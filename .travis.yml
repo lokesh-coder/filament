@@ -17,7 +17,7 @@ before_install:
   - echo "//registry.npmjs.org/:_authToken=\${NPM_TOKEN}" > .npmrc
 before_script:
   - export DISPLAY=:99.0
-  - sh -e /etc/init.d/xvfb start
+  - sh -e /etc/init.d/xvfb start 
   - sleep 3
   - git remote rm origin
   - git remote add origin https://${GH_TOKEN}@github.com/lokesh-coder/filament.git
@@ -25,8 +25,8 @@ before_script:
   - git config push.default current
 after_success:
   - 'if [ ${TRAVIS_PULL_REQUEST} = "false" ]; then
-      npm run release
-      npm run release-log
+      npm run release;
+      npm run release-log;
     fi'
   
 branches:

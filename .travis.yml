@@ -21,6 +21,7 @@ before_script:
   - sleep 3
   - git remote rm origin
   - git remote add origin https://${GH_TOKEN}@github.com/lokesh-coder/filament.git
+  - git checkout master
   - git config push.default current
 after_success:
   - npm run release

@@ -32,6 +32,7 @@ after_success:
 branches:
   only:
     - master
+    - /v\d+\.\d+[a-z]/
 deploy:
   provider: npm
   email: mexican.dirtyfellow@gmail.com

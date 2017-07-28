@@ -1,3 +1,13 @@
+<a name="1.7.1"></a>
+## [1.7.1](https://github.com/lokesh-coder/filament/compare/v1.7.0...v1.7.1) (2017-07-28)
+
+
+### Bug Fixes
+
+* added -f ([9bdf6d6](https://github.com/lokesh-coder/filament/commit/9bdf6d6))
+
+
+
 <a name="1.7.0"></a>
 # [1.7.0](https://github.com/lokesh-coder/filament/compare/v1.6.2...v1.7.0) (2017-07-28)
 

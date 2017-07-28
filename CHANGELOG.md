@@ -1,3 +1,13 @@
+<a name="1.6.1"></a>
+## [1.6.1](https://github.com/lokesh-coder/filament/compare/v1.6.0...v1.6.1) (2017-07-28)
+
+
+### Bug Fixes
+
+* travis auto push ([6732963](https://github.com/lokesh-coder/filament/commit/6732963))
+
+
+
 <a name="1.6.0"></a>
 # [1.6.0](https://github.com/lokesh-coder/filament/compare/v1.5.1...v1.6.0) (2017-07-25)
 

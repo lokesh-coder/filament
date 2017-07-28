@@ -1,2 +1,2 @@
-const name = 'LOKESH _ TEST DIRECT PUSH';
+const name = 'LOKESH_TEST DIRECT PUSH';
 const getName = (x) => x.toUpperCase();

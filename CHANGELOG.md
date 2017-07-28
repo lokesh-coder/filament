@@ -1,3 +1,13 @@
+<a name="1.7.0"></a>
+# [1.7.0](https://github.com/lokesh-coder/filament/compare/v1.6.2...v1.7.0) (2017-07-28)
+
+
+### Features
+
+* auto push ([9ca65bd](https://github.com/lokesh-coder/filament/commit/9ca65bd))
+
+
+
 <a name="1.6.2"></a>
 ## [1.6.2](https://github.com/lokesh-coder/filament/compare/v1.6.1...v1.6.2) (2017-07-28)
 

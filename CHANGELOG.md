@@ -1,3 +1,13 @@
+<a name="2.1.0"></a>
+# [2.1.0](https://github.com/lokesh-coder/filament/compare/v2.0.0...v2.1.0) (2017-07-28)
+
+
+### Features
+
+* another test \nfeat: one more tset ([fc6662a](https://github.com/lokesh-coder/filament/commit/fc6662a))
+
+
+
 <a name="2.0.0"></a>
 # [2.0.0](https://github.com/lokesh-coder/filament/compare/v1.7.1...v2.0.0) (2017-07-28)
 

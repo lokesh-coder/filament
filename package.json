@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha",
     "build": "gulp build",
-    "git-build": "gulp build && git add dist -f && git commit -m \"auto build [ci skip]\"",
+    "git-build": "gulp build && git add dist -f && git commit -m \"build(release): auto build [ci skip]\"",
     "release": "corp-semantic-release",
     "release-log": "conventional-github-releaser -p angular -r 0",
     "before:script": "gulp before:script",

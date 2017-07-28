@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha",
     "build": "gulp build",
-    "git-build": "gulp build && git add build\/ && git commit -am \"auto build\"",
+    "git-build": "gulp build && git add build && git commit -am \"auto build\"",
     "release": "corp-semantic-release",
     "release-log": "conventional-github-releaser -p angular -r 0",
     "before:script": "gulp before:script",
